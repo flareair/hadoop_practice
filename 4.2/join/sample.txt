@@ -1,0 +1,4 @@
+user1	query:гугл
+user1	url:google.ru
+user3	query:вконтакте
+user3	query:вконтакте
